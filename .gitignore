@@ -1,0 +1,14 @@
+.DS_Store
+*.pyc
+.idea
+examples/.ipynb_checkpoints
+*.xlsx
+*.png
+datasets/*
+!datasets/datasets.md
+simulation_results/*
+!simulation_results/simulation_results.md
+tests/temp_test_data
+old_stuff
+examples/.ipynb_checkpoints
+.ipynb_checkpoints
